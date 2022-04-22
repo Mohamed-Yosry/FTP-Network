@@ -1,0 +1,4 @@
+Your Dirs are:
+	[1] Movies
+	[2] Music
+	[3] Docs
